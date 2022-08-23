@@ -17,7 +17,7 @@ value size (largest to smallest).
 Video Link
 ----------
 A video walkthrough for this code:
-##########
+https://www.youtube.com/watch?v=7NT88bpTxY4
 """
 
 rules = {(3, 5):"Fizzbuzz", (7,):"Buzz", (3,):"Fizz"}
